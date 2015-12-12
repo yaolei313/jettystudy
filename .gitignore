@@ -1,0 +1,19 @@
+*.class
+*.classpath
+*.project
+*.gitignore
+*.log
+
+.DS_Store
+
+*/.idea
+*/web.iml
+*/logs
+*/.settings
+*/target
+*/classes
+
+# Package Files #
+*.jar
+*.war
+*.ear
